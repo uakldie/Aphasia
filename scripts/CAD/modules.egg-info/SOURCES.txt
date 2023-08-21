@@ -1,0 +1,11 @@
+setup.py
+modules/__init__.py
+modules/find_assemblies_recursive_opimized_parallel.py
+modules/find_assemblies_recursive_optimized.py
+modules/main_assemblies_detection_revised.py
+modules/main_parallel.py
+modules/test_pair_revised.py
+modules.egg-info/PKG-INFO
+modules.egg-info/SOURCES.txt
+modules.egg-info/dependency_links.txt
+modules.egg-info/top_level.txt
